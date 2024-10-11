@@ -1,1 +1,1 @@
-# Ventes-sur-Amazon---Nettoyage-Analyse-exploratoire-des-donn-es-Analyse-de-sentiment
+# Amazon Sales Analysis: Data Cleaning, EDA, and Sentiment Analysis
